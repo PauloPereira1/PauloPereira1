@@ -16,6 +16,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paulo_)](https://github.com/o-paulo/github-readme-stats)
+
 **Utilidades**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
